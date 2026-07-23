@@ -1,12 +1,10 @@
-# Anthony Ogbechi — Senior Backend Engineer
+Ogbechi Arinze Anthony — Senior Backend Engineer
 
-> 4 years building production fintech and distributed systems · Node.js · NestJS · Go · PostgreSQL · Kafka · Redis
+4 years building production fintech and distributed systems · TypeScript · NestJS · Go · PostgreSQL · Kafka · Redis
 
-I build the backend infrastructure that moves money, delivers messages at scale, and keeps systems running when things go wrong. Based in Nigeria, working with a US-headquartered.
+I build the backend infrastructure that moves money, delivers messages at scale, and keeps running when things go wrong. Based in Lagos, Nigeria, leading backend engineering at Digitpay (Dallas, USA).
 
-Most recently: led backend engineering at **Digitpay** (Dallas, USA) — a crypto-to-fiat fintech that was accepted into the **Lisk/AyaHQ international incubator**. I designed the KYC pipeline, real-time notification infrastructure, and the merchant payment system that lets anyone pay local traders with crypto, with instant fiat settlement.
-
-Currently building a **distributed payment engine** with Kafka, NestJS, and PostgreSQL — load-tested to 5,000 req/s with full saga-pattern transaction handling and exactly-once guarantees.
+Digitpay is a crypto-spending platform that lets people spend crypto in Naira and across Africa, accepted into the Lisk/AyaHQ Incubator Program ($30K+ in funding). I own the KYC pipeline, the multi-channel notification infrastructure, and the merchant payment system, on APIs that have powered $500K+ in crypto-to-fiat volume.
 
 ---
 
